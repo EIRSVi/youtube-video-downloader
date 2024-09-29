@@ -44,7 +44,8 @@ pip install yt-dlp colorama pyfiglet
 <p>1. Clone this repository:</p>
 
 ```bash
-git clone https://github.com/eirsvi/youtube-video-downloader.git
+git clone git@github.com:EIRSVi/youtube-video-downloader.git
+
 cd youtube-video-downloader
 ```
 
